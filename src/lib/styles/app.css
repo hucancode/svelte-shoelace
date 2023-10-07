@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+@import "@shoelace-style/shoelace/dist/themes/light.css";
+@import "@shoelace-style/shoelace/dist/themes/dark.css";
+
+.font-cursive {
+  font-family: "Great Vibes", "cursive";
+}
+body {
+  margin: 0;
+}
